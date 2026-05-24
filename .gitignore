@@ -1,0 +1,48 @@
+# macOS
+.DS_Store
+
+# Local environment and secrets
+.env
+.env.local
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.coverage
+htmlcov/
+
+# Packaging and build outputs
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Logs and runtime outputs
+*.log
+logs/
+outputs/
+*.csv
+
+# Generated WBS files
+wbs/
+generated_wbs.xlsx
+
+# Editor metadata
+.idea/
+.vscode/

@@ -1,0 +1,17 @@
+{
+  "id": "p_main_02",
+  "name": "도윤",
+  "age": 37,
+  "gender": "male",
+  "segment": "mainstream",
+  "background": "리테일 운영 매니저",
+  "occupation": "Operations Manager",
+  "location": "Incheon, KR",
+  "household_size": 4,
+  "income_monthly": 4200000,
+  "spend_monthly": 3100000,
+  "spend_breakdown": {"housing": 1200000, "food": 800000, "transport": 300000, "education": 350000, "leisure": 150000},
+  "traits": {"tech_savvy": "medium", "patience": "medium"},
+  "goals": ["상품 빠른 비교 및 구매", "간편 결제·배송 추적"],
+  "pains": ["원하는 상품 찾기 어려움", "결제 오류 및 지연"]
+}

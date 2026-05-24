@@ -1,0 +1,18 @@
+{
+  "id": "p_main_02",
+  "name": "도윤",
+  "age": 37,
+  "gender": "male",
+  "segment": "mainstream",
+  "background": "리테일 운영 매니저",
+  "occupation": "Operations Manager",
+  "location": "Incheon, KR",
+  "household_size": 4,
+  "income_monthly": 4200000,
+  "spend_monthly": 3100000,
+  "spend_breakdown": {"housing": 1200000, "food": 800000, "transport": 300000, "education": 350000, "leisure": 150000},
+  "traits": {"tech_savvy": "medium", "patience": "medium"},
+  "goals": ["일일/주간 운영 현황 리포트 자동 생성", "재고/근무 스케줄 간단 관리", "역할 기반 접근 권한 오류 감소"],
+  "pains": ["메뉴 구조가 깊어 기능 찾기 어려움", "엑셀 업로드 오류 메시지가 불명확", "권한 충돌로 승인 지연"]
+}
+

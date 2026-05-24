@@ -1,0 +1,18 @@
+{
+  "id": "p_early_03",
+  "name": "진우",
+  "age": 31,
+  "gender": "male",
+  "segment": "early",
+  "background": "물류 코디네이터",
+  "occupation": "Logistics Coordinator",
+  "location": "Daejeon, KR",
+  "household_size": 1,
+  "income_monthly": 4800000,
+  "spend_monthly": 2600000,
+  "spend_breakdown": {"housing": 700000, "food": 550000, "transport": 200000, "subscription": 100000, "leisure": 250000},
+  "traits": {"tech_savvy": "high", "risk_aversion": "low"},
+  "goals": ["입출고/재고 현황을 실시간 대시보드로 확인", "지연/이상 발생 시 즉시 알림", "CSV 업로드/다운로드 자동화"],
+  "pains": ["데이터 포맷 호환성 낮음", "현장 단말기에서 버튼이 작음", "필수 필드 검증이 느슨해 오류 잦음"]
+}
+

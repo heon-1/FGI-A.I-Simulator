@@ -1,0 +1,18 @@
+{
+  "id": "p_pro_01",
+  "name": "태영",
+  "age": 36,
+  "gender": "male",
+  "segment": "pro",
+  "background": "기업 SaaS 플랫폼 관리자",
+  "occupation": "IT Administrator",
+  "location": "Seoul, KR",
+  "household_size": 3,
+  "income_monthly": 6200000,
+  "spend_monthly": 3800000,
+  "spend_breakdown": {"housing": 1300000, "food": 700000, "transport": 250000, "subscription": 200000, "leisure": 250000},
+  "traits": {"tech_savvy": "high", "patience": " low"},
+  "goals": ["SSO/SCIM 연동", "감사 로그 및 모니터링"],
+  "pains": ["레이트리밋 불명확", "권한 매핑 가이드 부족"]
+}
+

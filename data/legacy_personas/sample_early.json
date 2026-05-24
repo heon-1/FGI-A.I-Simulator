@@ -1,0 +1,19 @@
+{
+  "id": "p_early_01",
+  "name": "메아린",
+  "age": 29,
+  "gender": "female",
+  "segment": "early",
+  "background": "스타트업 프로덕트 매니저",
+  "occupation": "Product Manager",
+  "location": "Seoul, KR",
+  "household_size": 1,
+  "income_monthly": 5200000,
+  "spend_monthly": 3200000,
+  "spend_breakdown": {"housing": 900000, "food": 600000, "transport": 200000, "subscription": 150000, "leisure": 350000},
+  "traits": {"tech_savvy": "high", "patience": "medium"},
+  "goals": ["빠른 온보딩", "베타 기능 탐색"],
+  "pains": ["문서 산재", "초기 설정 복잡"]
+}
+
+

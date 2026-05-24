@@ -1,0 +1,15 @@
+{
+  "id": "sc_content_certification_scenarios",
+  "title": "각종 내용증명 시나리오",
+  "description": "다양한 상황에서 작성하는 내용증명에 대한 시나리오 예시를 제공합니다.",
+  "context": {
+    "platform": "web",
+    "region": "KR",
+    "purpose": "법적 대응, 권리 주장, 사실 증빙 등을 위한 실제 상황별 내용증명 작성 참고"
+  },
+  "constraints": [
+    "상황별 실제 경험·특성을 반영",
+    "법적 효력 확보를 위한 구체성",
+    "핵심 사실, 요구사항, 증빙자료 명기"
+  ]
+}

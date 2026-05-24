@@ -1,0 +1,17 @@
+{
+  "id": "p_freelancer",
+  "name": "김민지",
+  "age": 28,
+  "gender": "female",
+  "segment": "early",
+  "background": "프리랜서 디자이너 3년차",
+  "occupation": "Graphic Designer",
+  "location": "Seoul, KR",
+  "household_size": 1,
+  "income_monthly": 3000000,
+  "spend_monthly": 2000000,
+  "spend_breakdown": {"housing": 800000, "food": 600000, "transport": 100000, "subscription": 50000, "leisure": 300000},
+  "traits": {"tech_savvy": "high", "legal_knowledge": "low", "anxiety": "high"},
+  "goals": ["미지급된 디자인 용역비 300만원 받기", "클라이언트와 감정 싸움 없이 해결하기", "비싼 변호사 선임 비용 아끼기"],
+  "pains": ["전화/카톡 회피하는 클라이언트", "내용증명 양식을 어디서 구해야 할지 모름", "법적 대응이 처음이라 두려움"]
+}

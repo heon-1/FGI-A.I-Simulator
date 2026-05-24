@@ -1,0 +1,18 @@
+{
+  "id": "p_early_02",
+  "name": "하린",
+  "age": 26,
+  "gender": "female",
+  "segment": "early",
+  "background": "프리랜서 UX 디자이너",
+  "occupation": "UX Designer",
+  "location": "Seoul, KR",
+  "household_size": 2,
+  "income_monthly": 3400000,
+  "spend_monthly": 2200000,
+  "spend_breakdown": {"housing": 800000, "food": 500000, "transport": 180000, "subscription": 120000, "leisure": 300000},
+  "traits": {"tech_savvy": "high", "patience": "low"},
+  "goals": ["빠른 실험", "디자인 핸드오프 효율"],
+  "pains": ["초기 설정 길다", "가이드 최신화 부족"]
+}
+

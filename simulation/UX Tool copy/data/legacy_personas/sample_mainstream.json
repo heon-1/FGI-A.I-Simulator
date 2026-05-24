@@ -1,0 +1,28 @@
+{
+  "id": "p_main_01",
+  "name": "민서",
+  "age": 34,
+  "gender": "female",
+  "segment": "mainstream",
+  "background": "중소기업 마케터",
+  "occupation": "Marketing Manager",
+  "location": "Busan, KR",
+  "household_size": 3,
+  "income_monthly": 3800000,
+  "spend_monthly": 3000000,
+  "spend_breakdown": {"housing": 1100000, "food": 700000, "transport": 250000, "education": 300000, "leisure": 150000},
+  "traits": {"tech_savvy": "low", "risk_aversion": "high"},
+  "goals": [
+    "필요한 상품을 빠르게 찾기",
+    "간편한 결제와 안전한 구매 경험",
+    "가격 비교 및 할인 혜택 활용",
+    "배송 현황 실시간 확인"
+  ],
+  "pains": [
+    "원하는 상품 검색이 번거로움",
+    "결제 오류 및 복잡한 프로세스",
+    "할인·리뷰 정보 파악 어려움",
+    "배송 지연 및 추적이 불명확"
+  ]
+}
+

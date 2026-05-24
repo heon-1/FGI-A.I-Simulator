@@ -1,0 +1,17 @@
+{
+  "id": "p_landlord",
+  "name": "정태영",
+  "age": 58,
+  "gender": "male",
+  "segment": "pro",
+  "background": "임대사업자, 상가/원룸 보유",
+  "occupation": "Real Estate Investor",
+  "location": "Seoul, KR",
+  "household_size": 2,
+  "income_monthly": 12000000,
+  "spend_monthly": 6000000,
+  "spend_breakdown": {"tax": 2000000, "loan_interest": 2000000, "living": 2000000},
+  "traits": {"tech_savvy": "medium", "legal_experience": "medium", "patience": "low"},
+  "goals": ["월세 미납 세입자 명도 소송 준비", "계약 해지 통보의 법적 효력 확보", "건물 관리 이슈(누수 분쟁) 해결"],
+  "pains": ["연락 두절 세입자로 인한 금전 손실", "내용증명 발송의 번거로움(우체국 방문)", "세입자와의 감정적 충돌 피로감"]
+}

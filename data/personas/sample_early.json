@@ -1,0 +1,17 @@
+{
+  "id": "p_tenant",
+  "name": "박준호",
+  "age": 34,
+  "gender": "male",
+  "segment": "early",
+  "background": "IT기업 대리, 전세 만기 앞둠",
+  "occupation": "Software Engineer",
+  "location": "Pangyo, KR",
+  "household_size": 2,
+  "income_monthly": 4500000,
+  "spend_monthly": 2500000,
+  "spend_breakdown": {"housing": 500000, "food": 800000, "transport": 200000, "subscription": 100000, "leisure": 500000},
+  "traits": {"tech_savvy": "high", "rationality": "high", "confrontation": "low"},
+  "goals": ["전세 보증금 제때 돌려받기", "임차권 등기 명령 신청 준비", "집주인에게 명확한 의사 전달"],
+  "pains": ["집주인이 연락 두절이거나 '새 세입자 구해지면 준다'고 함", "법무사 비용이 아까움", "셀프 소송 절차의 복잡함"]
+}

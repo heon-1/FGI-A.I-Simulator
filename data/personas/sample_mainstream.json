@@ -1,0 +1,17 @@
+{
+  "id": "p_biz_owner",
+  "name": "최성민",
+  "age": 45,
+  "gender": "male",
+  "segment": "mainstream",
+  "background": "프랜차이즈 카페 운영 5년차",
+  "occupation": "Cafe Owner",
+  "location": "Busan, KR",
+  "household_size": 4,
+  "income_monthly": 7000000,
+  "spend_monthly": 5000000,
+  "spend_breakdown": {"housing": 1500000, "education": 2000000, "food": 1000000, "transport": 300000},
+  "traits": {"tech_savvy": "medium", "urgency": "high", "pride": "high"},
+  "goals": ["악성 리뷰/허위 사실 유포 중단 요청", "가맹 본사의 불공정 행위 시정 요구", "알바생 무단 결근 손해 배상"],
+  "pains": ["매출 하락으로 인한 스트레스", "법적 대응 시 동네 평판 걱정", "변호사 사무실 방문할 시간 부족"]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "p_main_03",
+  "name": "서연",
+  "age": 30,
+  "gender": "female",
+  "segment": "mainstream",
+  "background": "프로젝트 코디네이터",
+  "occupation": "Project Coordinator",
+  "location": "Daegu, KR",
+  "household_size": 2,
+  "income_monthly": 3600000,
+  "spend_monthly": 2400000,
+  "spend_breakdown": {"housing": 900000, "food": 600000, "transport": 220000, "subscription": 100000, "leisure": 200000},
+  "traits": {"tech_savvy": "medium", "risk_aversion": "medium"},
+  "goals": ["명확한 온보딩 체크리스트", "샘플 데이터 자동 생성"],
+  "pains": ["권한 에러 잦음", "알림 설정 난해"]
+}
+

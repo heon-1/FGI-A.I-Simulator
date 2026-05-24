@@ -1,0 +1,19 @@
+{
+  "id": "p_main_01",
+  "name": "민서",
+  "age": 34,
+  "gender": "female",
+  "segment": "mainstream",
+  "background": "중소기업 마케터",
+  "occupation": "Marketing Manager",
+  "location": "Busan, KR",
+  "household_size": 3,
+  "income_monthly": 3800000,
+  "spend_monthly": 3000000,
+  "spend_breakdown": {"housing": 1100000, "food": 700000, "transport": 250000, "education": 300000, "leisure": 150000},
+  "traits": {"tech_savvy": "low", "risk_aversion": "high"},
+  "goals": ["캠페인 성과를 한눈에 보는 기본 리포트", "초기 설정 없이 바로 쓰는 템플릿", "예산 대비 성과 알림"],
+  "pains": ["전문용어와 약어가 많음", "설정 옵션이 너무 많아 결정 피로", "도움말이 실제 화면과 달라 혼란"]
+}
+
+

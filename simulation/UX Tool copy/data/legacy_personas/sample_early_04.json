@@ -1,0 +1,18 @@
+{
+  "id": "p_early_04",
+  "name": "시온",
+  "age": 28,
+  "gender": "nonbinary",
+  "segment": "early",
+  "background": "크리에이터 & 커뮤니티 매니저",
+  "occupation": "Community Manager",
+  "location": "Incheon, KR",
+  "household_size": 2,
+  "income_monthly": 3000000,
+  "spend_monthly": 2100000,
+  "spend_breakdown": {"housing": 750000, "food": 520000, "transport": 160000, "subscription": 130000, "leisure": 260000},
+  "traits": {"tech_savvy": "medium", "patience": "high"},
+  "goals": ["커뮤니티 인게이지먼트 분석", "템플릿 기반 빠른 실행"],
+  "pains": ["온보딩 경로 불명확", "헬프센터 탐색성 낮음"]
+}
+

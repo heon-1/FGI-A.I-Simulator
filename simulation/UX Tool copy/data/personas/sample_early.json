@@ -1,0 +1,30 @@
+{
+  "id": "p_early_01",
+  "name": "메아린",
+  "age": 29,
+  "gender": "female",
+  "segment": "early",
+  "background": "초등학교 교사",
+  "occupation": "Teacher",
+  "location": "Tokyo, JP",
+  "household_size": 1,
+  "income_monthly": 5200000,
+  "spend_monthly": 3200000,
+  "spend_breakdown": {"housing": 900000, "food": 600000, "transport": 200000, "subscription": 150000, "leisure": 350000},
+  "traits": {"tech_savvy": "high", "patience": "medium"},
+  "goals": [
+    "필요한 상품을 빠르게 찾고 비교하여 구매",
+    "특가/할인 정보를 실시간으로 확인하고 활용",
+    "간편하고 안전하게 결제 및 배송 추적",
+    "리뷰와 평점을 참고해 신뢰할 수 있는 상품 선택"
+  ],
+  "pains": [
+    "검색 결과가 너무 많거나 광고가 많아 원하는 상품 찾기 어려움",
+    "상품 정보와 실제 수령 상품 간 차이",
+    "배송이 지연되거나 추적이 어려움",
+    "결제 과정이 복잡하거나 오류 발생",
+    "리뷰/평점의 신뢰성을 판단하기 어려움"
+  ]
+}
+
+

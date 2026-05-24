@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["id", "title", "questions"],
+  "properties": {
+    "id": {"type": "string"},
+    "title": {"type": "string"},
+    "instructions": {"type": "string"},
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "text"],
+        "properties": {
+          "id": {"type": "string"},
+          "text": {"type": "string"},
+          "kind": {"enum": ["open", "scale", "multi"]},
+          "options": {"type": "array", "items": {"type": "string"}},
+          "scale_min": {"type": "integer"},
+          "scale_max": {"type": "integer"}
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
+
+

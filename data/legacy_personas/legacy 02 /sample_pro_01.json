@@ -1,0 +1,18 @@
+{
+  "id": "p_pro_01",
+  "name": "태영",
+  "age": 36,
+  "gender": "male",
+  "segment": "pro",
+  "background": "병원 행정 관리자",
+  "occupation": "Hospital Administrator",
+  "location": "New York, US",
+  "household_size": 3,
+  "income_monthly": 6200000,
+  "spend_monthly": 3800000,
+  "spend_breakdown": {"housing": 1300000, "food": 700000, "transport": 250000, "subscription": 200000, "leisure": 250000},
+  "traits": {"tech_savvy": "high", "patience": " low"},
+  "goals": ["부서/직군별 권한 정책 일괄 관리", "감사 로그와 규정준수 보고 자동화", "의료진 온보딩/오프보딩 절차 간소화"],
+  "pains": ["의료 데이터 용어와 설정이 복잡", "권한 모델 이해/맵핑이 어렵다", "피크 시간대 성능 저하"]
+}
+

@@ -1,0 +1,18 @@
+{
+  "id": "p_early_03",
+  "name": "진우",
+  "age": 31,
+  "gender": "male",
+  "segment": "early",
+  "background": "스타트업 백엔드 개발자",
+  "occupation": "Software Engineer",
+  "location": "Daejeon, KR",
+  "household_size": 1,
+  "income_monthly": 4800000,
+  "spend_monthly": 2600000,
+  "spend_breakdown": {"housing": 700000, "food": 550000, "transport": 200000, "subscription": 100000, "leisure": 250000},
+  "traits": {"tech_savvy": "high", "risk_aversion": "low"},
+  "goals": ["API 속도 모니터링", "베타 기능 조기접근"],
+  "pains": ["문서 일관성 부족", "권한 설정 번거로움"]
+}
+
